@@ -54,7 +54,7 @@ ___
 
 * [5.5. GUÍA TUTORIAL RÁPIDA DE LA PÁGINA](#5.5.-GUÍA-TUTORIAL-RÁPIDA-DE-LA-PÁGINA)
 
-6. [6. AUTORÍA](#6.-AUTORÍA)
+6. [AUTORÍA](#6.-AUTORÍA)
 
 _____________________________
 <br>
@@ -215,7 +215,7 @@ Partiendo del esquema prototipo de alta fidelidad y analizando la historia de us
 **INTERFAZ DE LA ESTRUCTURA EN HTML/CSS**
 Se ha realizado la estructura según el prototipo de alta fidelidad. Según las historias de usuarios, se realizaron las modificaciones de los aspectos observados.
 Se ha realizado el trabajo responsive utilizando código Boostrap y MediaQueries.
-No se han llegado a cumplir el prototipo en su totalidad, en razón del tiempo. Sin embargo, se ha cumplido toda la parte requerida más uno de los puntos del hacker edition.
+No se ha llegado a cumplir el prototipo en su totalidad, en razón del tiempo. Sin embargo, se ha cumplido toda la parte requerida más uno de los puntos del hacker edition.
 
 
 
